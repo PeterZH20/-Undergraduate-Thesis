@@ -1,0 +1,1 @@
+{"algorithm": "lloyd", "init": "random", "max_iter": 100, "n_clusters": 29, "n_init": 10, "random_state": 42, "tol": 0.001}
